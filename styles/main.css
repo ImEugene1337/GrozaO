@@ -1,0 +1,42 @@
+body {
+	background: url('../images/bg.jpg') no-repeat;
+	background-size: 100% 100%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+header {
+	padding-top: 5%;
+}
+
+table {
+	text-align: center;
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #000;
+}
+
+thead {
+	background: #8787C4;
+}
+
+td:hover {
+	background: #0084FF;
+}
+
+a {
+	color: #7e247e;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #333;
+}
+
+main {
+	background-color: #B3C1F2;
+	font-size: 200%;
+	float: left;
+	padding: 1%;
+}
+
